@@ -11,4 +11,3 @@ plugins {
 }
 
 rootProject.name = 'esieeit-projet-si-java-groupe3'
-include('app')
